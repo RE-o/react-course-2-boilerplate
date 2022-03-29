@@ -1,0 +1,7 @@
+node_modules/
+public/dist/
+.nvmrc
+
+.env.test
+.env.development
+README.txt
